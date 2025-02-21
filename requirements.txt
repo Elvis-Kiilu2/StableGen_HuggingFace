@@ -1,0 +1,9 @@
+streamlit
+requests
+keras-cv
+tensorflow
+keras_hub
+keras
+numpy
+image
+Pillow
